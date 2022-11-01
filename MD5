@@ -1,8 +1,8 @@
-334d0ac76363c48b62b00318332e91b3 *DESCRIPTION
+f982a37cb2c25cb09daa827f6b3cfe5e *DESCRIPTION
 d20094f7164916c01198f081f00bfc91 *LICENSE
 31b9c4bec668a71bfab2c1369e98a7bc *LICENSE.note
 aa30bac2370b8b2df097c8718de47ae6 *NAMESPACE
-bb0a6e4177a491df108b4c98352a5f01 *NEWS.md
+4915c5d68544cfbd0c082ca0cfa9fad6 *NEWS.md
 81b346494b5ce22d94093aae8e1e3745 *R/aaa.R
 954cad6f0cd0414a921186eebb4b4cdc *R/cookies-package.R
 0e8affcb32e4dd7601549145ce5ad2e4 *R/data_prep.R
@@ -44,7 +44,7 @@ c6627232e15ae51084b449098f7b87cf *man/set_cookie_response.Rd
 467e05748cd3508de9c0ed6a3c8f0f17 *tests/testthat/_snaps/onload.md
 bc38cb5bd1a9346461d752ae2f846c48 *tests/testthat/_snaps/server.md
 d6c3d24008cb3d2bd660bb1ecc1c045a *tests/testthat/_snaps/ui_wrapper.md
-8d61fa01e62404f88bb5d0a1fcbf3ae7 *tests/testthat/test-onload.R
+2c60732b21fb42d31daef3336ba12b38 *tests/testthat/test-onload.R
 f5cb79da240001729211e9bcbfeb2a1e *tests/testthat/test-requests.R
 db25869d2037afa388a315ef097b34c5 *tests/testthat/test-server.R
 d9568fed04d54d77dc9984581dc19ff6 *tests/testthat/test-ui_wrapper.R
