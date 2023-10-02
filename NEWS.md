@@ -1,3 +1,8 @@
+# cookies 0.2.3
+
+* Better handling of race-time conditions between R and JavaScript (#63).
+* Cleaner tests.
+
 # cookies 0.2.2
 
 * Updated cookie handling to allow HttpOnly cookies mixed with JavaScript cookies, and improved error messages (#54).
